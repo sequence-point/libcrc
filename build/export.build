@@ -1,0 +1,6 @@
+$out_root/
+{
+  include libcrc/
+}
+
+export $out_root/libcrc/$import.target
